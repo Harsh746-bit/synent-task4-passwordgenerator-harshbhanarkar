@@ -1,4 +1,4 @@
-# 🔐 Password Generator (CLI)
+#  Password Generator (CLI)
 
 A Python Command-Line Interface (CLI) application that generates secure and customizable passwords based on user preferences. The application allows users to choose password length, character types, and provides a password strength evaluation.
 
