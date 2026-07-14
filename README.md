@@ -25,6 +25,10 @@ A Python Command-Line Interface (CLI) application that generates secure and cust
 - random
 - string
 
+## 🎥 Demo Video
+
+[[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)](https://youtu.be/hfcyknG38js
+task 4)
 ## Project Structure
 ```
 .
